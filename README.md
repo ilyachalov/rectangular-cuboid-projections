@@ -5,7 +5,7 @@
 
 ## Проекции
 
-Пока что написал код только для [метода](https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/methods/DrawRectCuboid_Isometric.cs), рисующего прямоугольную изометрическую проекцию прямоугольного параллелепипеда.
+Пока что написал код только для [метода](https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/methods/DrawRectCuboid_Isometric.cs), рисующего прямоугольную изометрическую проекцию прямоугольного параллелепипеда. В моем блоге есть [подробный пост](https://ilyachalov.livejournal.com/375970.html) с пояснениями.
 
 ## Что получается, иллюстрации
 
