@@ -9,7 +9,4 @@
 
 ## Что получается, иллюстрации
 
-![](https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app4.png)
-![](https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app1.png)
-![](https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app2.png)
-![](https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app3.png)
+<img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app4.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app1.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app2.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app3.png" width="350">
