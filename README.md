@@ -17,4 +17,4 @@
 
 ### Версия 1
 
-<img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app4.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app1.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app2.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app3.png" width="350">
+<img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app-v1-ris4.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app-v1-ris1.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app-v1-ris2.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app-v1-ris3.png" width="350">
