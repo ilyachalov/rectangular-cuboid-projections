@@ -9,7 +9,7 @@
 - [прямоугольная изометрическая](https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/methods/DrawRectCuboid_Isometric.cs);
 - [прямоугольная диметрическая](https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/methods/DrawRectCuboid_Dimetric.cs).
 
-В моем блоге есть [подробный пост](https://ilyachalov.livejournal.com/375970.html) с пояснениями.
+В моем блоге есть подробные посты с пояснениями: [первый](https://ilyachalov.livejournal.com/375970.html), [второй](https://ilyachalov.livejournal.com/377384.html).
 
 ## Что получается, иллюстрации
 
