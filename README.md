@@ -16,6 +16,10 @@
 
 ## Что получается, иллюстрации
 
+### Версия 3
+
+<img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app-v3-ris1.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app-v3-ris2.png" width="350"> <img src="https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app-v3-ris3.png" width="350">
+
 ### Версия 2
 
 ![](https://github.com/ilyachalov/rectangular-cuboid-projections/blob/main/illustrations/cuboid-app-v2-ris1.png)
